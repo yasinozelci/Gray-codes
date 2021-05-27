@@ -1,5 +1,11 @@
 # Gray-codes
 
+What is the Gray Code?
+
+
+The reflected binary code (RBC), also known just as reflected binary (RB) or Gray code after Frank Gray, is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).
+
+
 
 
 
